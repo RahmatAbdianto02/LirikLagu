@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lirik Lagu</string>
+    <string name="rv_judul">Penyanyi</string>
+    <string name="lirik_lagu">Item Lagi</string>
+
+    <string-array name="data_name">
+        <item>Risalah Hati</item>
+        <item>Pupus</item>
+        <item>Laskar cinta</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Hidupku tanpa cintamu
+Bagai malam tanpa bintang
+Cintaku tanpa sambutmu
+\</item>
+
+        <item>Aku tak mengerti apa yang kurasa
+Rindu yang tak pernah begitu hebatnya
+Aku mencintaimu lebih dari yang kau tahu
+</item>
+
+        <item>Wahai jiwa-jiwa yang tenang berhati-hatilah dirimu kepada hati-hati yang penuh dengan kebencian yang dalam  Karena sesungguhnya iblis ada dan bersemayam
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lagu1</item>
+        <item>@drawable/lagu2</item>
+        <item>@drawable/gambar3</item>
+    </integer-array>
+</resources>
